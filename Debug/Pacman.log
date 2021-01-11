@@ -1,0 +1,95 @@
+﻿  GameController.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(660): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(639): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(120): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(125): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(130): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(135): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(140): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(210): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(215): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(220): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(225): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(230): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(386): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(413): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(441): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(465): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(490): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(597): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(602): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(691): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(699): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(704): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\gamecontroller.cpp(710): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  BonusController.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(660): warning C4251: 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::_Vector_alloc<std::_Vec_base_types<_Ty,_Alloc>>'
+          with
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys
+          ]
+          and
+          [
+              _Ty=S2D::Input::Keys,
+              _Alloc=std::allocator<S2D::Input::Keys>
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vector(639): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\s2d\input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(119): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(124): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(129): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(231): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(236): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(241): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(246): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(409): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(425): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(442): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(459): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(463): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(509): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(570): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(578): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio\pacmanframework(s2dv1.5) oop\pacman\pacman\bonuscontroller.cpp(691): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Pacman.vcxproj -> D:\Documents\Visual Studio\PacmanFramework(S2Dv1.5) OOP\Pacman\Debug\Pacman.exe
